@@ -1,0 +1,24 @@
+Scenario 1:
+
+cd /***/*** 
+git init
+git status /s
+git add .
+git commit -m "Version 1"
+git status
+git log --all -graph 
+
+create on github
+git remote add origin <https url>
+git push origin master
+
+
+Scenario 2:
+option 1: same as scenario 1
+option 2:
+create repository on github
+gitclone
+develop
+
+Scenario 3:
+same as 2.2
